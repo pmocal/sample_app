@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'bcrypt', '3.1.12'
 gem 'bootstrap-sass', '3.3.7'
 gem 'bootsnap'
-gem 'rails',        '5.2.0'
+gem 'rails',        ">= 5.2.1.1"
 gem 'bcrypt',         '3.1.12'
 gem 'puma',         '3.9.1'
 gem 'sass-rails',   '5.0.6'
